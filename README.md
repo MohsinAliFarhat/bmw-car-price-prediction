@@ -11,3 +11,5 @@ The following regession models are created:
 You can see accuracy results in screenshot given below:
 # Accuracy Results
 ![car-price-prediction](https://user-images.githubusercontent.com/66195795/115107112-4eb54700-9f82-11eb-95ee-632e6fcac114.jpg)
+
+Note: Data set was obtained from kaggle.
